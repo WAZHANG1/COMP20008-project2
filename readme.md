@@ -27,7 +27,7 @@ The product id field corresponds to the idAmazon and idGoogleBase of the amazon.
 
 **Task - 1C**: Report on the Data Linkage project</br>
 
-## Part 2 - Classification</br>
+### Part 2 - Classification</br>
 **Comparing Classification Algorithms**</br>
 **Task - 2A**: Compare the performance of the following 3 classification algorithms: k-NN (k=5 and k=10) and Decision tree (with a maximum depth of 4) on the provided data. You may use sklearn’s KNeighborsClassifier and DecisionTreeClassifier functions for this task.</br> 
 Output is in task2a.csv. </br>
